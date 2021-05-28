@@ -1,0 +1,45 @@
+{
+  "name": "layout-designer-project-lvl3",
+  "version": "1.0.0",
+  "description": "Messenger 'Hexlet Chat'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PZhukovski/layout-designer-project-lvl3.git"
+  },
+  "author": "Polina Zhukovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PZhukovski/layout-designer-project-lvl3/issues"
+  },
+  "homepage": "https://github.com/PZhukovski/layout-designer-project-lvl3#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^4.0.1",
+    "htmlhint": "^0.14.2",
+    "sass": "^1.32.13",
+    "stylelint": "^13.13.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.5.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
