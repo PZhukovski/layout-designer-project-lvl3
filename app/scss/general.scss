@@ -268,9 +268,9 @@ main {
   font-weight: 400;
 }
 
-.send {
-  width: 50px;
-  height: 50px;
+.send{
+  width:42px;
+  height:42px;
 }
 
 .br-50-percent {
@@ -284,15 +284,20 @@ main {
   header {
     order: 0;
   }
-  .overflow-md-hidden {
-   overflow: hidden;
 
-}
+  .overflow-md-hidden {
+    overflow: hidden;
+  }
+
    main {
      display: flex;
    }
+
   .small-md {
-   font-size: 12.8px !important;
-}
-  
+    font-size: 12.8px !important;
+  }
+  .send {
+    width: 50px;
+    height: 50px;
+  }
 }

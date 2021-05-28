@@ -1,3 +1,3 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/PZhukovski/layout-designer-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/PZhukovski/layout-designer-project-lvl3/actions)
-upset-sugar.surge.sh
+discreet-wrench.surge.sh

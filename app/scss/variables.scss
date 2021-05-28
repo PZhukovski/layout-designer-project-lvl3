@@ -35,6 +35,7 @@ $spacer: 1rem;
 
 $spacers: (
   0: 0,
+  1: ($spacer * 0.25),
   3: ($spacer * 1),
   4: ($spacer * 1.5),
   5: ($spacer * 2),
